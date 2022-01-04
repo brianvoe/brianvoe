@@ -7,4 +7,6 @@
   <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=brianvoe" />
 </p>
 
+[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=brianvoe&langs_count=5)]()
+
 <img src="https://github-profile-trophy.vercel.app/?username=jaswdr&theme=flat&column=7&margin-w=10" alt="logo" height="160" align="center" />
